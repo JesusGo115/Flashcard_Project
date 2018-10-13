@@ -6,7 +6,7 @@ This flashcard let's you study the meaning of life
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/AAo4PiS.gifv" width=200><br>
+<img src="https://i.imgur.com/AAo4PiS.gif" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
