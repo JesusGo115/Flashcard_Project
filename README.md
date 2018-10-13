@@ -6,9 +6,7 @@ This flashcard let's you study the meaning of life
 
 ### App Walk-though
 
-https://i.imgur.com/AAo4PiS.gifv
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://i.imgur.com/AAo4PiS.gifv" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
